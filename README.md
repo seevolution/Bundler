@@ -1,3 +1,11 @@
+# Fork details
+
+Related to [issue #23](https://github.com/ServiceStack/Bundler/issues/23).
+
+  - Converted from 'sass' to 'node-sass' because of difficulties related to indentation and tabs/spaces.
+  - Updated to node v0.10.13.
+
+
 # Bundler
 
 Bundler is a fast, cross-platform, command-line runner (easily integrated into existing IDEs, inc VS.NET) with optimized support for ASP.NET MVC that statically **compiles**, **minifies** and **combines** your websites **less**, **sass**, **css**, **coffeescript** and **js** files.
